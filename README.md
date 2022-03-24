@@ -4,7 +4,7 @@
 
 simple whatsapp-bot using [baileys-md](https://github.com/adiwajshing/Baileys/tree/multi-device/) to download social media post and many features
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gimenz/nganu) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/navodh/nganu) 
 
 [**Join WA Group**](https://chat.whatsapp.com/D5Hua4mepuO35z1ocjnN5X)
 
